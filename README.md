@@ -29,10 +29,10 @@ To run this notebook, you'll need the following Python packages:
 
 If you're using Google Colab, these are already available by default.
 
-## How to Run
-1. Open the notebook in [Google Colab]
+## How to Run (if need be)
+1. Open the notebook in Google Colab
 2. Run each cell in order (top to bottom)
-3. Review the outputs and focus primarily on Model 1
+3. Look at the output and focus primarily on Model 1
 
 ## Author
 Created by Anthony Holleran and Madison Montgomery
